@@ -1,13 +1,4 @@
 //PROJETO 1: PISCA LED
-
-/*
-NOME: Larissa Santos
-DATA: 14/08/2026
-VER: 1.0
-OBS: Este programa faz o Arduino Uno ligar e desligar (piscar) o pino 8, na qual um LED está conectado com CARGA!!!!!
-
-*/
-
 // LISTA DE APELIDOS
 #define LED01	8
 #define LED02	7
